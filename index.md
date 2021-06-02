@@ -1,5 +1,5 @@
 ---
-title: <enter your title here>
+title: <Page 1>
 layout: default
 nav_order: 1
 ---
