@@ -4,11 +4,11 @@ layout: default
 nav_order: 1
 ---
   
-  # Heading level 1
+  # Headings
 	
-  ## Heading level 2
+  ## This is a second level heading
 	
-  ### Heading level 3
+  ### This is a third level heading
   
   # Bolded and italicized
   *This text will be italic*
